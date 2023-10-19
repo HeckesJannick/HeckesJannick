@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HeckesJannick
 - 👀 I’m interested in ... Coding, writing and sports
-- 🌱 I’m currently learning ... C#, HTML/CSS/PHP, Bethesda Creation Kit
+- 🌱 I’m currently learning ... C#, HTML/CSS/PHP
 - 📫 How to reach me ... DM / PM
 
 <!---
