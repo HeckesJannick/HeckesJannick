@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HeckesJannick
 - 👀 I’m interested in ... Coding, writing and sports
-- 🌱 I’m currently learning ... C#, HTML/CSS/PHP
+- 🌱 I’m currently learning/working ... C#, on other projects
 - 📫 How to reach me ... DM / PM
 
 <!---
